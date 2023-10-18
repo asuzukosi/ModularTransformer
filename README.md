@@ -1,6 +1,6 @@
 # Modular Transformer
 
-**Project Description**: "A framework to simplify transformer architectures into modular and accessible building blocks."
+**Project Description**: A framework to simplify transformer architectures into modular and accessible building blocks.
 
 ## Table of Contents
 
